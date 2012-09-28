@@ -1,4 +1,4 @@
-#Python Filler Text Generator
+#Python Innapropriate Word Censor
 #r/dailyprogrammer
 #100 intermediate
 
