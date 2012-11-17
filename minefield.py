@@ -1,3 +1,6 @@
+#Challenge 108 [int]
+
+
 from random import shuffle
 
 def generateMinefield(h,w,m):
